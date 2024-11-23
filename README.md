@@ -1,4 +1,5 @@
 # vue3-example
+Vue3 example
 
 ## Project setup
 ```
